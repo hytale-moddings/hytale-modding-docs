@@ -24,8 +24,8 @@ Criar uma tabela de drops personalizada para o NPC **Slime** do tutorial [Criar 
 - O mod do bloco Crystal Glow instalado (veja [Criar um Bloco Personalizado](/hytale-modding-docs/pt-br/tutorials/beginner/create-a-block/)) — usamos como drop raro
 
 **Repositórios do mod complementar:**
-- [hytale-mods-custom-npc](https://github.com/nevesb/hytale-mods-custom-npc) — Slime NPC v1.0.0 (mod base sem loot)
-- [hytale-mods-custom-loot-tables](https://github.com/nevesb/hytale-mods-custom-loot-tables) — Slime NPC v1.1.0 (com tabela de drops deste tutorial)
+- [hytale-mods-custom-npc](https://github.com/hytale-moddings/hytale-mods-custom-npc) — Slime NPC v1.0.0 (mod base sem loot)
+- [hytale-mods-custom-loot-tables](https://github.com/hytale-moddings/hytale-mods-custom-loot-tables) — Slime NPC v1.1.0 (com tabela de drops deste tutorial)
 
 :::note[Este Tutorial Substitui a Tabela de Drops do NPC]
 O tutorial [Criar um NPC Personalizado](/hytale-modding-docs/pt-br/tutorials/beginner/create-an-npc/) inclui uma tabela de drops básica no Passo 6. Este tutorial constrói uma versão mais completa que **substitui** aquela tabela de drops. Após completar este tutorial, seu Slime usará a nova tabela de loot.

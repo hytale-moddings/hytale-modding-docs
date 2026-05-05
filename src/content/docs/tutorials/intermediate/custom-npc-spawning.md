@@ -23,7 +23,7 @@ Create **spawn rules** that make your custom NPCs appear naturally in the world.
 - The Slime NPC mod from [Create a Custom NPC](/hytale-modding-docs/tutorials/beginner/create-an-npc/)
 - The Feran Enchanted Merchant mod from [NPC Shops and Trading](/hytale-modding-docs/tutorials/intermediate/npc-shops-and-trading/)
 
-**Companion mod repository:** [hytale-mods-custom-npc-spawns](https://github.com/nevesb/hytale-mods-custom-npc-spawns)
+**Companion mod repository:** [hytale-mods-custom-npc-spawns](https://github.com/hytale-moddings/hytale-mods-custom-npc-spawns)
 
 ---
 

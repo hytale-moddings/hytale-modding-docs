@@ -26,7 +26,7 @@ Agregar **ataques de proyectil** a la Espada de Cristal del tutorial [Crear un B
 - El mod del bloque Brillo de Cristal de [Crear un Bloque Personalizado](/hytale-modding-docs/es/tutorials/beginner/create-a-block/)
 - El mod del Árbol Encantado de [Árboles y Semillas Personalizados](/hytale-modding-docs/es/tutorials/intermediate/custom-trees-and-saplings/)
 
-**Repositorio del mod complementario:** [hytale-mods-custom-projectile](https://github.com/nevesb/hytale-mods-custom-projectile) (v2.0.0)
+**Repositorio del mod complementario:** [hytale-mods-custom-projectile](https://github.com/hytale-moddings/hytale-mods-custom-projectile) (v2.0.0)
 
 :::note[Este Tutorial Reemplaza Mods Anteriores]
 El mod complementario de este tutorial incluye todo de los tutoriales [Crear un Objeto Personalizado](/hytale-modding-docs/es/tutorials/beginner/create-an-item/) y [Crear un Banco de Crafteo](/hytale-modding-docs/es/tutorials/intermediate/create-a-crafting-bench/). Solo necesitas instalar `hytale-mods-custom-projectile` — reemplaza tanto `CreateACustomWeapon` como `CreateACraftingBench`.

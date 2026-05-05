@@ -27,7 +27,7 @@ Construa uma **Bigorna de Cristal**, uma **Espada de Cristal** com um ataque de 
 - Familiaridade com definições de blocos (veja [Criar um Bloco Personalizado](/hytale-modding-docs/pt-br/tutorials/beginner/create-a-block))
 - Familiaridade com definições de itens (veja [Criar um Item Personalizado](/hytale-modding-docs/pt-br/tutorials/beginner/create-an-item))
 
-**Repositório do mod de exemplo:** [hytale-guide-create-a-crafting-bench](https://github.com/nevesb/hytale-guide-create-a-crafting-bench)
+**Repositório do mod de exemplo:** [hytale-mods-custom-bench](https://github.com/hytale-moddings/hytale-mods-custom-bench)
 
 ---
 

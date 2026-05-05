@@ -23,7 +23,7 @@ Create a **Feran Longtooth Merchant** — a passive NPC that offers barter trade
 - The Enchanted Tree mod installed (see [Custom Trees and Saplings](/hytale-modding-docs/tutorials/intermediate/custom-trees-and-saplings/)) — provides `Plant_Fruit_Enchanted` and `Plant_Sapling_Enchanted`
 - The Slime NPC with loot table (see [Custom Loot Tables](/hytale-modding-docs/tutorials/intermediate/custom-loot-tables/)) — the Slime drops Enchanted Fruit
 
-**Companion mod repository:** [hytale-mods-custom-shop](https://github.com/nevesb/hytale-mods-custom-shop)
+**Companion mod repository:** [hytale-mods-custom-shop](https://github.com/hytale-moddings/hytale-mods-custom-shop)
 
 :::tip[Game Loop]
 This tutorial completes the gameplay loop across all previous tutorials: kill Slimes or harvest Enchanted Trees to collect Enchanted Fruit, then trade 3 Fruit at the Feran merchant for a new Enchanted Sapling to plant more trees.

@@ -17,7 +17,7 @@ Build a complete **Boss Slime** encounter with:
 - Loot drops with a trophy item
 
 <Aside type="tip">
-The complete mod is available on GitHub: [hytale-mod-custom-combat-system](https://github.com/nevesb/hytale-mod-custom-combat-system)
+The complete mod is available on GitHub: [hytale-mod-custom-combat-system](https://github.com/hytale-moddings/hytale-mod-custom-combat-system)
 </Aside>
 
 ## Prerequisites

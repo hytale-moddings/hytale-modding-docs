@@ -23,7 +23,7 @@ Crear **reglas de aparición** que hagan que tus NPCs personalizados aparezcan n
 - El mod del Slime NPC de [Crear un NPC Personalizado](/hytale-modding-docs/tutorials/beginner/create-an-npc/)
 - El mod del Mercader Encantado Feran de [Tiendas de NPCs y Comercio](/hytale-modding-docs/tutorials/intermediate/npc-shops-and-trading/)
 
-**Repositorio del mod complementario:** [hytale-mods-custom-npc-spawns](https://github.com/nevesb/hytale-mods-custom-npc-spawns)
+**Repositorio del mod complementario:** [hytale-mods-custom-npc-spawns](https://github.com/hytale-moddings/hytale-mods-custom-npc-spawns)
 
 ---
 

@@ -17,7 +17,7 @@ Construye un encuentro completo con un **Slime Jefe** que incluye:
 - Botín con un objeto trofeo
 
 <Aside type="tip">
-El mod completo está disponible en GitHub: [hytale-mod-custom-combat-system](https://github.com/nevesb/hytale-mod-custom-combat-system)
+El mod completo está disponible en GitHub: [hytale-mod-custom-combat-system](https://github.com/hytale-moddings/hytale-mod-custom-combat-system)
 </Aside>
 
 ## Requisitos previos

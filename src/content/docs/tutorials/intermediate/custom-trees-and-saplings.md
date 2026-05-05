@@ -26,7 +26,7 @@ An **Enchanted Tree** — a custom tree type that players can grow from a saplin
 
 - Complete the [Create a Custom Block](/hytale-modding-docs/tutorials/beginner/create-a-block/) tutorial first — this mod **depends on the Crystal Glow Block** created in that tutorial for its growth mechanic
 - A mod folder with a valid `manifest.json` (see [Setup Your Dev Environment](/hytale-modding-docs/tutorials/beginner/setup-dev-environment/))
-- The [Crystal Glow Block mod](https://github.com/nevesb/hytale-mods-custom-block) installed and working in your mods folder
+- The [Crystal Glow Block mod](https://github.com/hytale-moddings/hytale-mods-custom-block) installed and working in your mods folder
 - Custom textures for trunk, leaves, and fruit (or reuse Azure/Ash textures for testing)
 
 ## Git Repository
@@ -34,7 +34,7 @@ An **Enchanted Tree** — a custom tree type that players can grow from a saplin
 The complete working mod is available as a GitHub repository:
 
 ```text
-https://github.com/nevesb/hytale-mods-custom-tree
+https://github.com/hytale-moddings/hytale-mods-custom-tree
 ```
 
 Clone it and copy the contents to your Hytale mods directory to test immediately.
@@ -612,7 +612,7 @@ Create `Server/PrefabList/Trees_Enchanted.json`:
 | `Path` | String | Subdirectory containing `.prefab.json` files for one growth stage |
 | `Recursive` | Boolean | `true` — scan subdirectories as well |
 
-The actual `.prefab.json` files contain block position data that forms the tree shape. These are created using the Hytale prefab editor in Creative Mode and contain references to the block types we defined above (trunk, leaves, fruit, moss). The prefabs are included in the [companion repository](https://github.com/nevesb/hytale-mods-custom-tree).
+The actual `.prefab.json` files contain block position data that forms the tree shape. These are created using the Hytale prefab editor in Creative Mode and contain references to the block types we defined above (trunk, leaves, fruit, moss). The prefabs are included in the [companion repository](https://github.com/hytale-moddings/hytale-mods-custom-tree).
 
 ---
 
@@ -722,7 +722,7 @@ CreateACustomTree/
 ## Step 10: Test In-Game
 
 1. Copy the mod folder to `%APPDATA%/Hytale/UserData/Mods/`
-2. Also install the [Crystal Glow Block mod](https://github.com/nevesb/hytale-mods-custom-block) — it's required for the growth mechanic
+2. Also install the [Crystal Glow Block mod](https://github.com/hytale-moddings/hytale-mods-custom-block) — it's required for the growth mechanic
 3. Launch Hytale and enter **Creative Mode**
 4. Grant yourself operator permissions and spawn the items:
    ```text

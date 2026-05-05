@@ -21,7 +21,7 @@ A **Crystal Sword** — a custom melee weapon crafted from glowing crystal block
 The complete working mod is available as a GitHub repository:
 
 ```text
-https://github.com/nevesb/hytale-mods-custom-weapon
+https://github.com/hytale-moddings/hytale-mods-custom-weapon
 ```
 
 Clone it and copy the contents into your Hytale mods directory. The repository contains every file described in this tutorial:

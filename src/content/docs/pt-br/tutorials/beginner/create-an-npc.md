@@ -23,7 +23,7 @@ Criar um **Slime** — um NPC hostil que persegue e ataca jogadores ao avistá-l
 - Blockbench com o plugin do Hytale instalado
 - Familiaridade com herança de templates JSON (veja [Herança e Templates](/hytale-modding-docs/reference/concepts/inheritance-and-templates/))
 
-**Repositório do mod complementar:** [hytale-mods-custom-npc](https://github.com/nevesb/hytale-mods-custom-npc)
+**Repositório do mod complementar:** [hytale-mods-custom-npc](https://github.com/hytale-moddings/hytale-mods-custom-npc)
 
 ---
 

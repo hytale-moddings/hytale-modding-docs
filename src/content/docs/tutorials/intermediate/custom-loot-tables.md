@@ -24,8 +24,8 @@ Create a custom drop table for the **Slime** NPC from the [Create a Custom NPC](
 - The Crystal Glow block mod installed (see [Create a Custom Block](/hytale-modding-docs/tutorials/beginner/create-a-block/)) — we use it as a rare drop
 
 **Companion mod repositories:**
-- [hytale-mods-custom-npc](https://github.com/nevesb/hytale-mods-custom-npc) — Slime NPC v1.0.0 (base mod without loot)
-- [hytale-mods-custom-loot-tables](https://github.com/nevesb/hytale-mods-custom-loot-tables) — Slime NPC v1.1.0 (with drop table from this tutorial)
+- [hytale-mods-custom-npc](https://github.com/hytale-moddings/hytale-mods-custom-npc) — Slime NPC v1.0.0 (base mod without loot)
+- [hytale-mods-custom-loot-tables](https://github.com/hytale-moddings/hytale-mods-custom-loot-tables) — Slime NPC v1.1.0 (with drop table from this tutorial)
 
 :::note[This Tutorial Replaces the NPC Drop Table]
 The [Create a Custom NPC](/hytale-modding-docs/tutorials/beginner/create-an-npc/) tutorial includes a basic drop table in Step 6. This tutorial builds a more complete version that **replaces** that drop table. After completing this tutorial, your Slime will use the new loot table instead.

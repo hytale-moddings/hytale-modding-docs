@@ -21,7 +21,7 @@ Un bloque de cristal brillante llamado **Ore_Crystal_Glow** — un bloque con mo
 El mod completo y funcional está disponible como repositorio de GitHub que puedes clonar y usar directamente:
 
 ```text
-https://github.com/nevesb/hytale-mods-custom-block
+https://github.com/hytale-moddings/hytale-mods-custom-block
 ```
 
 Clónalo y copia el contenido en tu directorio de mods de Hytale para probarlo inmediatamente. El repositorio contiene todos los archivos descritos en este tutorial con la estructura de carpetas correcta:

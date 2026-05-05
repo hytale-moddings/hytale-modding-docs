@@ -23,7 +23,7 @@ Criar um **Mercador Feran Longtooth** — um NPC passivo que oferece trocas de i
 - O mod Árvore Encantada instalado (veja [Árvores e Mudas Personalizadas](/hytale-modding-docs/pt-br/tutorials/intermediate/custom-trees-and-saplings/)) — fornece `Plant_Fruit_Enchanted` e `Plant_Sapling_Enchanted`
 - O NPC Slime com tabela de loot (veja [Tabelas de Loot Personalizadas](/hytale-modding-docs/pt-br/tutorials/intermediate/custom-loot-tables/)) — o Slime dropa Frutas Encantadas
 
-**Repositório do mod complementar:** [hytale-mods-custom-shop](https://github.com/nevesb/hytale-mods-custom-shop)
+**Repositório do mod complementar:** [hytale-mods-custom-shop](https://github.com/hytale-moddings/hytale-mods-custom-shop)
 
 :::tip[Loop de Jogo]
 Este tutorial completa o loop de jogabilidade de todos os tutoriais anteriores: mate Slimes ou colha Árvores Encantadas para coletar Frutas Encantadas, depois troque 3 Frutas no mercador Feran por uma nova Muda Encantada para plantar mais árvores.

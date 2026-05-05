@@ -21,7 +21,7 @@ A glowing crystal block called **Ore_Crystal_Glow** — a custom-model block wit
 The complete working mod is available as a GitHub repository you can clone and use directly:
 
 ```text
-https://github.com/nevesb/hytale-mods-custom-block
+https://github.com/hytale-moddings/hytale-mods-custom-block
 ```
 
 Clone it and copy the contents into your Hytale mods directory to test immediately. The repository contains every file described in this tutorial in the correct folder structure:

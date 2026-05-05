@@ -27,7 +27,7 @@ Construye un **Yunque de Cristal**, una **Espada de Cristal** con un ataque de p
 - Familiaridad con definiciones de bloques (ver [Crear un Bloque Personalizado](/hytale-modding-docs/es/tutorials/beginner/create-a-block))
 - Familiaridad con definiciones de ítems (ver [Crear un Ítem Personalizado](/hytale-modding-docs/es/tutorials/beginner/create-an-item))
 
-**Repositorio del mod de ejemplo:** [hytale-guide-create-a-crafting-bench](https://github.com/nevesb/hytale-guide-create-a-crafting-bench)
+**Repositorio del mod de ejemplo:** [hytale-mods-custom-bench](https://github.com/hytale-moddings/hytale-mods-custom-bench)
 
 ---
 

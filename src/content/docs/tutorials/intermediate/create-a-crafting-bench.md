@@ -25,7 +25,7 @@ Build a **Crystal Anvil** crafting bench, a **Crystal Sword** with a charged pro
 - Familiarity with block definitions (see [Create a Custom Block](/hytale-modding-docs/tutorials/beginner/create-a-block))
 - Familiarity with item definitions (see [Create a Custom Item](/hytale-modding-docs/tutorials/beginner/create-an-item))
 
-**Companion mod repository:** [hytale-guide-create-a-crafting-bench](https://github.com/nevesb/hytale-guide-create-a-crafting-bench)
+**Companion mod repository:** [hytale-mods-custom-bench](https://github.com/hytale-moddings/hytale-mods-custom-bench)
 
 ---
 

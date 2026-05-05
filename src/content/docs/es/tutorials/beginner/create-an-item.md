@@ -21,7 +21,7 @@ Una **Espada de Cristal** — un arma cuerpo a cuerpo personalizada fabricada co
 El mod funcional completo está disponible como repositorio de GitHub:
 
 ```text
-https://github.com/nevesb/hytale-mods-custom-weapon
+https://github.com/hytale-moddings/hytale-mods-custom-weapon
 ```
 
 Clónalo y copia el contenido en tu directorio de mods de Hytale. El repositorio contiene todos los archivos descritos en este tutorial:

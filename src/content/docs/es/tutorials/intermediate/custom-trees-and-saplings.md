@@ -26,7 +26,7 @@ Un **Árbol Encantado** — un tipo de árbol personalizado que los jugadores pu
 
 - Completa primero el tutorial [Crear un Bloque Personalizado](/hytale-modding-docs/tutorials/beginner/create-a-block/) — este mod **depende del Crystal Glow Block** creado en ese tutorial para su mecánica de crecimiento
 - Una carpeta de mod con un `manifest.json` válido (consulta [Configura tu Entorno de Desarrollo](/hytale-modding-docs/tutorials/beginner/setup-dev-environment/))
-- El [mod Crystal Glow Block](https://github.com/nevesb/hytale-mods-custom-block) instalado y funcionando en tu carpeta de mods
+- El [mod Crystal Glow Block](https://github.com/hytale-moddings/hytale-mods-custom-block) instalado y funcionando en tu carpeta de mods
 - Texturas personalizadas para tronco, hojas y fruta (o reutiliza las texturas de Azure/Ash para pruebas)
 
 ## Repositorio Git
@@ -34,7 +34,7 @@ Un **Árbol Encantado** — un tipo de árbol personalizado que los jugadores pu
 El mod completo y funcional está disponible como repositorio en GitHub:
 
 ```text
-https://github.com/nevesb/hytale-mods-custom-tree
+https://github.com/hytale-moddings/hytale-mods-custom-tree
 ```
 
 Clónalo y copia el contenido a tu directorio de mods de Hytale para probarlo inmediatamente.
@@ -612,7 +612,7 @@ Crea `Server/PrefabList/Trees_Enchanted.json`:
 | `Path` | String | Subdirectorio que contiene archivos `.prefab.json` para una etapa de crecimiento |
 | `Recursive` | Boolean | `true` — escanea también los subdirectorios |
 
-Los archivos `.prefab.json` reales contienen datos de posición de bloques que forman la forma del árbol. Estos se crean usando el editor de prefabs de Hytale en Modo Creativo y contienen referencias a los tipos de bloques que definimos arriba (tronco, hojas, fruta, musgo). Los prefabs están incluidos en el [repositorio complementario](https://github.com/nevesb/hytale-mods-custom-tree).
+Los archivos `.prefab.json` reales contienen datos de posición de bloques que forman la forma del árbol. Estos se crean usando el editor de prefabs de Hytale en Modo Creativo y contienen referencias a los tipos de bloques que definimos arriba (tronco, hojas, fruta, musgo). Los prefabs están incluidos en el [repositorio complementario](https://github.com/hytale-moddings/hytale-mods-custom-tree).
 
 ---
 
@@ -722,7 +722,7 @@ CreateACustomTree/
 ## Paso 10: Probar en el Juego
 
 1. Copia la carpeta del mod a `%APPDATA%/Hytale/UserData/Mods/`
-2. También instala el [mod Crystal Glow Block](https://github.com/nevesb/hytale-mods-custom-block) — es necesario para la mecánica de crecimiento
+2. También instala el [mod Crystal Glow Block](https://github.com/hytale-moddings/hytale-mods-custom-block) — es necesario para la mecánica de crecimiento
 3. Inicia Hytale y entra en **Modo Creativo**
 4. Otórgate permisos de operador y genera los objetos:
    ```text

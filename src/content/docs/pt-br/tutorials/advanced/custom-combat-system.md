@@ -17,7 +17,7 @@ Construa um encontro completo com o **Slime Chefe** incluindo:
 - Drops de loot com um item troféu
 
 <Aside type="tip">
-O mod completo está disponível no GitHub: [hytale-mod-custom-combat-system](https://github.com/nevesb/hytale-mod-custom-combat-system)
+O mod completo está disponível no GitHub: [hytale-mod-custom-combat-system](https://github.com/hytale-moddings/hytale-mod-custom-combat-system)
 </Aside>
 
 ## Pré-requisitos

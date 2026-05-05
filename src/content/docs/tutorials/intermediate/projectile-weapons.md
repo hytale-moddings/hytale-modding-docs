@@ -26,7 +26,7 @@ Add **projectile attacks** to the Crystal Sword from the [Create a Crafting Benc
 - The Crystal Glow block mod from [Create a Custom Block](/hytale-modding-docs/tutorials/beginner/create-a-block/)
 - The Enchanted Tree mod from [Custom Trees and Saplings](/hytale-modding-docs/tutorials/intermediate/custom-trees-and-saplings/)
 
-**Companion mod repository:** [hytale-mods-custom-projectile](https://github.com/nevesb/hytale-mods-custom-projectile) (v2.0.0)
+**Companion mod repository:** [hytale-mods-custom-projectile](https://github.com/hytale-moddings/hytale-mods-custom-projectile) (v2.0.0)
 
 :::note[This Tutorial Replaces Previous Mods]
 The companion mod for this tutorial includes everything from the [Create a Custom Item](/hytale-modding-docs/tutorials/beginner/create-an-item/) and [Create a Crafting Bench](/hytale-modding-docs/tutorials/intermediate/create-a-crafting-bench/) tutorials. You only need to install `hytale-mods-custom-projectile` — it replaces both `CreateACustomWeapon` and `CreateACraftingBench`.
