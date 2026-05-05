@@ -3,6 +3,8 @@ title: Create Custom Dungeon Instances
 description: How to create custom dungeon instances with prefabs, portals, gameplay configs, loot tables, and NPC encounters.
 ---
 
+**Companion mod repository:** [hytale-mods-custom-dungeon](https://github.com/hytale-moddings/hytale-mods-custom-dungeon) — Void Overseer multi-phase boss dungeon
+
 ## Goal
 
 Build a complete custom dungeon instance called the **Sunken Vault** — a self-contained instanced area that players enter through a portal, fight through NPC encounters, collect loot from containers, and exit upon death or completion. You will create a gameplay config for the instance, define portal entry and exit points, configure dungeon loot tables, and wire up NPC spawns inside the instance.

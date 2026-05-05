@@ -3,6 +3,8 @@ title: Crie Instâncias de Dungeon Personalizadas
 description: Como criar instâncias de dungeon personalizadas com prefabs, portais, configurações de jogabilidade, tabelas de loot e encontros com NPCs.
 ---
 
+**Repositório do mod complementar:** [hytale-mods-custom-dungeon](https://github.com/hytale-moddings/hytale-mods-custom-dungeon) — Masmorra do Void Overseer com chefe multifase
+
 ## Objetivo
 
 Construir uma instância de dungeon personalizada completa chamada **Sunken Vault** (Cofre Submerso) — uma área instanciada autocontida na qual os jogadores entram através de um portal, lutam em encontros com NPCs, coletam loot de contêineres e saem ao morrer ou completar. Você criará uma configuração de jogabilidade para a instância, definirá pontos de entrada e saída de portal, configurará tabelas de loot da dungeon e conectará spawns de NPCs dentro da instância.

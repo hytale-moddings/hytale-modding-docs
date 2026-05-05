@@ -3,6 +3,8 @@ title: Crear Instancias de Mazmorras Personalizadas
 description: Cómo crear instancias de mazmorras personalizadas con prefabs, portales, configuraciones de jugabilidad, tablas de botín y encuentros con NPCs.
 ---
 
+**Repositorio del mod complementario:** [hytale-mods-custom-dungeon](https://github.com/hytale-moddings/hytale-mods-custom-dungeon) — Mazmorra del Void Overseer con jefe multifase
+
 ## Objetivo
 
 Construir una instancia de mazmorra personalizada completa llamada **Sunken Vault** (Cripta Sumergida) — un área instanciada autocontenida a la que los jugadores entran a través de un portal, luchan contra encuentros con NPCs, recolectan botín de contenedores y salen al morir o completarla. Crearás una configuración de jugabilidad para la instancia, definirás puntos de entrada y salida del portal, configurarás tablas de botín de la mazmorra y conectarás las apariciones de NPCs dentro de la instancia.
