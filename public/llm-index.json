@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "description": "Machine-readable index of all Hytale Modding Manual pages and schemas for LLM consumption",
   "version": "0.1.0",
-  "base_url": "https://nevesb.github.io/hytale-modding-docs",
+  "base_url": "https://hytale-moddings.github.io/hytale-modding-docs",
   "locales": ["en-US", "es", "pt-BR"],
   "schemas_dir": "schemas/",
   "pages": [

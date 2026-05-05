@@ -2,7 +2,7 @@
 
 Comprehensive multilingual documentation for Hytale server modding. Every JSON configuration schema documented, with step-by-step tutorials and interactive flowcharts.
 
-**Live site:** [nevesb.github.io/hytale-modding-docs](https://nevesb.github.io/hytale-modding-docs/)
+**Live site:** [hytale-moddings.github.io/hytale-modding-docs](https://hytale-moddings.github.io/hytale-modding-docs/)
 
 ---
 

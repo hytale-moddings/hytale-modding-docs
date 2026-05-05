@@ -52,7 +52,7 @@ Assets/                     # Extracted game assets (~3GB, gitignored)
 
 ## Astro Config
 
-- `site`: `https://nevesb.github.io`
+- `site`: `https://hytale-moddings.github.io`
 - `base`: `/hytale-modding-docs`
 - Starlight 0.33.2 + Astro 5.6.1
 - Overrides: `@astrojs/sitemap@3.6.1` and `zod@3.25.76` (prevents Zod v4 compatibility crash on 404 page)

@@ -31,7 +31,7 @@ function sitemapPatch() {
 }
 
 export default defineConfig({
-	site: 'https://nevesb.github.io',
+	site: 'https://hytale-moddings.github.io',
 	base: '/hytale-modding-docs',
 	integrations: [
 		starlight({
@@ -60,13 +60,13 @@ export default defineConfig({
 						'@context': 'https://schema.org',
 						'@type': 'WebSite',
 						name: 'Hytale Modding Manual',
-						url: 'https://nevesb.github.io/hytale-modding-docs/',
+						url: 'https://hytale-moddings.github.io/hytale-modding-docs/',
 						description: 'Comprehensive Hytale modding documentation: JSON schemas, NPC system, items, crafting, world config, and step-by-step tutorials. Available in English, Spanish, and Portuguese.',
 						potentialAction: {
 							'@type': 'SearchAction',
 							target: {
 								'@type': 'EntryPoint',
-								urlTemplate: 'https://nevesb.github.io/hytale-modding-docs/?q={search_term_string}',
+								urlTemplate: 'https://hytale-moddings.github.io/hytale-modding-docs/?q={search_term_string}',
 							},
 							'query-input': 'required name=search_term_string',
 						},
@@ -110,7 +110,7 @@ export default defineConfig({
 				'pt-br': { label: 'Português (BR)', lang: 'pt-BR' },
 			},
 			social: [
-				{ icon: 'github', label: 'GitHub', href: 'https://github.com/nevesb/hytale-modding-docs' },
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/hytale-moddings/hytale-modding-docs' },
 			],
 			customCss: ['./src/styles/home.css'],
 			sidebar: [
